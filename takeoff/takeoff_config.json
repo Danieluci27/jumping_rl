@@ -1,0 +1,7 @@
+{
+    "num_envs": 1,
+    "simulation_dt": 0.005,
+    "device": "cuda:0",
+    "headless": false,
+    "kit_args": "--/app/vulkan=false --/app/extensions/fsWatcherEnabled=false"
+}
